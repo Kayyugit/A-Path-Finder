@@ -31,4 +31,4 @@ The A* Pathfinding Algorithm is useful because it effectively balances **optimal
 ### 7. **Balances Speed and Accuracy:**
    - A* strikes a balance between the fast but potentially suboptimal Greedy Best-First Search (which focuses only on the heuristic) and Dijkstra's Algorithm (which finds the shortest path but explores all nodes). A* minimizes exploration while ensuring accuracy.
 
-This was a really fun project because it focused on visualizing how it works. In the furure I'll also add pojects where I used this algorithm as well.
+This was a really fun project because it focused on visualizing how it works. In the future, I'll also be adding projects where I use this algorithm in other programs.
